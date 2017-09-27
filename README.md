@@ -1,12 +1,13 @@
-# Purdue Gold IronHacks Spring 2017 Tutorials    
+# Purdue Gold IronHacks Fall 2017 Tutorials    
 
-Welcome to Purdue Gold IronHacks Spring 2017! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on March 28th, 2017.
+Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on October 30th, 2017.
 
 **[Introduction Slides - Purdue](https://www.dropbox.com/s/byi71e1dij5ljnt/3-7-2017_Purdue%20IronHacks%202017_Hack%20Introduction.pdf?dl=0)**
+
 **[Introduction Slides - Bogota](https://www.dropbox.com/s/wxtj0885wsjwxua/3-2-2017_Purdue-UNAL%20IronHacks%202017_Hack%20Introduction.pdf?dl=0)**
 
 ## Session 1
-<i><small>(please complete between March 6th to March 10th)</small></i>
+<i><small>(please complete between October 11th to October 17th)</small></i>
 
 **[Presentation](https://drive.google.com/open?id=1ROow9rDdBPrJkhUaoTVEoPvAm8mr1j7Xm4oaQH2u-d4)** -- Slides for Session 1
 ### HTML
@@ -38,7 +39,7 @@ You are required to submit code to our system using GitHub <br>
 _In this hack, we will create a git repository for every participant, and add them as collaborators to their respective repo. All code submissions should done through the said repository_
 
 ## Session 2
-<small><i>(please complete between March 20th to March 23th)</i></small>
+<small><i>(please complete between October 18th to October 24th)</i></small>
 
 **[Presentation](https://drive.google.com/open?id=1OYDpDXJI_I0kP3_MwuqNwsVqt2wb_JwlGoz0Eo7id30)** -- Slides for Session 2
 
@@ -60,7 +61,7 @@ Please follow along these videos to complete the sample projects on Javascript &
 **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ## Session 3
-<small><i>(please complete between March 24th to March 28th)</i></small>
+<small><i>(please complete between October 25th to October 31th)</i></small>
 
 **[Presentation](https://docs.google.com/presentation/d/1paSzazJEQV3jkrPDvGyM6wKifaGgkZwWRotKwvwMNy0/edit?usp=sharing)** -- Slides for Session 3
 
@@ -90,9 +91,9 @@ Please follow along these videos to complete the sample projects on d3
 **[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
 **[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Official tutorial for Google Map API<br>
 
-## Additional information to get ready for the hack that starts on March 28th, 2017
+## Additional information to get ready for the hack that starts on October 30th, 2017
 
-Purdue Gold IronHacks Spring 2017 will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide (see above). Below, we provide you with information about open data sets, and also an example submission of a mashup (similar to one that you may submit in the first phase of the hack). For your reference, here is a definition of a **[mashup](https://techterms.com/definition/mashup)**
+Purdue Gold IronHacks Fall 2017 will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide (see above). Below, we provide you with information about open data sets, and also an example submission of a mashup (similar to one that you may submit in the first phase of the hack). For your reference, here is a definition of a **[mashup](https://techterms.com/definition/mashup)**
 
 ### 1. Datasets
 
@@ -102,7 +103,7 @@ Available datasets to choose from:
 - **[Climate Data Online](https://www.ncdc.noaa.gov/cdo-web)** -- the mandatory dataset <br>
 
 Pick one additional open data set relevant for a challenge focused on the food quality and price:
-- **[50OPENDATASETS](https://www.dropbox.com/s/xsr4ytln2hvn3ah/verified50datasets_vegetables.docx?dl=0)** -- 50 relevant datastes
+- **[50OPENDATASETS](https://www.dropbox.com/s/9zpulcf1k099445/verified%20datasets%20in%20new%20york.docx?dl=0)** -- 50 relevant datastes
 
 If you want to learn more about the sources of this data:
 - **[Data.gov](https://www.data.gov)** -- Official site of the US Government
@@ -118,8 +119,8 @@ Please make sure that you also include very descriptive readme file when you com
 
 An example submission of a mashup has been completed to get you started (but you do not have to use it). It can be found via the following link. In this example submission, AJAX is used for data retrieval, Google Map Api and D3 are applied for data display.
 
-- **[Dev Process](sample_project)** -- This is a example submission of a mashup. Please keep in mind that is NOT related to your challenge question in the Purdue Gold IronHacks Spring 2017 <br>
-- **[Demo of Example Project](http://rawgit.com/goldironhack/2017-Purdue-IronHack-Tutorials/master/sample_project/2017-Purdue-IronHacks-Tutorial-Project.html)**
+- **[Dev Process](sample_project)** -- This is a example submission of a mashup. Please keep in mind that is NOT related to your challenge question in the Purdue Gold IronHacks Fall 2017 <br>
+- **[Demo of Example Project](http://cdn.rawgit.com/goldironhack/2017-Fall-Purdue-UNAL-IronHack-Tutorials/a5953244/sample_project/2017-Purdue-IronHacks-Tutorial-Project.html)**
 
 ### 4. Virtual Tutoring Sessions
 
