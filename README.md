@@ -27,17 +27,17 @@ Please follow along these videos to complete the sample projects on HTML & CSS
 
 
 **[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS” for week 1: We strongly recommend that you take this quiz. (sign-in to your contest)<br>
+<!-- 
+### GitHub
 
-[^_^]: ### GitHub
-
-[^_^]: You are required to submit code to our system using GitHub <br>
+You are required to submit code to our system using GitHub <br>
 
 
-[^_^]: **[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and GitHub, such as how to install and basic usage<br>
-[^_^]: **[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git
+**[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and GitHub, such as how to install and basic usage<br>
+**[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git
 
-[^_^]:_In this hack, we will create a git repository for every participant, and add them as collaborators to their respective repo. All code submissions should done through the said repository_
-
+_In this hack, we will create a git repository for every participant, and add them as collaborators to their respective repo. All code submissions should done through the said repository_
+-->
 ## Session 2
 <small><i>(please complete between October 18th to October 24th)</i></small>
 
