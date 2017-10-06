@@ -2,10 +2,6 @@
 
 Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on October 30th, 2017.
 
-**[Introduction Slides - Purdue](https://www.dropbox.com/s/byi71e1dij5ljnt/3-7-2017_Purdue%20IronHacks%202017_Hack%20Introduction.pdf?dl=0)**
-
-**[Introduction Slides - Bogota](https://www.dropbox.com/s/wxtj0885wsjwxua/3-2-2017_Purdue-UNAL%20IronHacks%202017_Hack%20Introduction.pdf?dl=0)**
-
 ## Session 1
 <i><small>(please complete between October 11th to October 17th)</small></i>
 
@@ -28,9 +24,9 @@ Please follow along these videos to complete the sample projects on HTML & CSS
 
 **[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS” for week 1: We strongly recommend that you take this quiz. (sign-in to your contest)<br>
 <!-- 
-### GitHub
+### Social Coding Platform
 
-You are required to submit code to our system using GitHub <br>
+You are required to submit code to our system using our social coding platform <br>
 
 
 **[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and GitHub, such as how to install and basic usage<br>
@@ -81,6 +77,7 @@ You can use chart libraries to create beautiful visualizations <br>
 **[d3.js 2](https://drive.google.com/open?id=0B-DRvJb6N3IiYm5hclVxRk9pcEE)** <br>
 **[d3.js 3](https://drive.google.com/open?id=0B-DRvJb6N3Iic25BWkJ5eXpNb1E)** <br>
 **[d3.js 4](https://drive.google.com/open?id=0B-DRvJb6N3IiVno4eGZQNnItMnM)** <br>
+**[Spanish version](https://drive.google.com/file/d/0B255jHwhIl5hU25PNFVwQkMxTkU/view)**<br>
 
 Please follow along these videos to complete the sample projects on d3
 
@@ -88,8 +85,14 @@ Please follow along these videos to complete the sample projects on d3
 
 ### Google Maps Javascript API
 **[Official Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Official tutorial for Google Map API<br>
+**[Spanish version](https://drive.google.com/file/d/0B255jHwhIl5haTVQcFRuTlVhTkk/view)** -- official tutorial for google maps api
 **[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
 **[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Official tutorial for Google Map API<br>
+
+## Session 4
+<small><i>(please complete between October 25th to November 1st)</i></small>
+<small><i>To Be Added Soon!</i></small>
+
 
 ## Additional information to get ready for the hack that starts on October 30th, 2017
 
@@ -101,9 +104,6 @@ The IRONHACKS rules require that you use at least TWO open data sets in your pro
 
 Available datasets to choose from:
 - **[Climate Data Online](https://www.ncdc.noaa.gov/cdo-web)** -- the mandatory dataset <br>
-
-Pick one additional open data set relevant for a challenge focused on the food quality and price:
-- **[50OPENDATASETS](https://www.dropbox.com/s/9zpulcf1k099445/verified%20datasets%20in%20new%20york.docx?dl=0)** -- 50 relevant datastes
 
 If you want to learn more about the sources of this data:
 - **[Data.gov](https://www.data.gov)** -- Official site of the US Government
@@ -124,6 +124,6 @@ An example submission of a mashup has been completed to get you started (but you
 
 ### 4. Virtual Tutoring Sessions
 
-We will be available for online Q&As on Wednesdays and Fridays. Please check www.ironhacks.com
+We will be available for online Q&As on Wednesdays and Thursdays (4:30pm - 5:30pm). Please check www.ironhacks.com
 
 <i>If you have done all this, you are ready to go! GOOD LUCK during the competition! You can do it! </i>
