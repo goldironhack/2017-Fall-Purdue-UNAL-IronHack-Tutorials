@@ -74,7 +74,7 @@ Please follow along these videos to complete the sample projects on Javascript &
 **[Tutorial](https://github.com/d3/d3/wiki)** -- An official tutorial for d3<br>
 **[Sample Project](session3/D3_tutorial)** -- Our simple project for d3 specifically developed for IronHacks<br>
 **[Spanish version of d3](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** -- Spanish version of d3<br>
-**[Spanish verison of Google Maps] (https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** -- Spanish version of google map<br>
+**[Spanish verison of Google Maps](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** -- Spanish version of google map<br>
 
 ### Chart Libraries
 You can use chart libraries to create beautiful visualizations <br>
