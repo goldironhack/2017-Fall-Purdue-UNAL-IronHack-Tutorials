@@ -4,15 +4,23 @@ Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to 
 
 ## Session 1
 <i><small>(please complete between October 11th to October 17th)</small></i>
-
+**[User Manual Social Coding Platform](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- Introduction to IronHacks 
 **[Presentation](https://drive.google.com/open?id=1ROow9rDdBPrJkhUaoTVEoPvAm8mr1j7Xm4oaQH2u-d4)** -- Slides for Session 1
 ### HTML
 **[Tutorial](http://www.w3schools.com/html)** -- An official tutorial for HTML<br>
+**[Basic HTML Video Version 1](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- Basic HTML video version 1
+**[Basic HTML Sample Code Version 1](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- Basic HTML codes version 1
+**[Basic HTML Video Version 2](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- Basic HTML video version 2
+**[Basic HTML Sample Code Version 2](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- Basic HTML codes version 2
+**[Inserting image on social coding platform (video)](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- inserting image on social coding platform 
+**[Inserting image on social coding platfrom (codes)](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- inserting image on social coding platform 
 **[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
 
 ### CSS
 **[Tutorial](http://www.w3schools.com/css/)** -- An official tutorial for CSS<br>
 **[Bootstrap](http://getbootstrap.com/)** -- Official website for Bootstrap<br>
+**[Boostrap Video on Social Coding Editor](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- boostrap video on social coding editor
+**[Boostrap Codes on Social Coding Editor](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- boostrap codes on social coding editor
 **[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
 
 ### Videos for Sample Projects
@@ -43,6 +51,7 @@ _In this hack, we will create a git repository for every participant, and add th
 **[JS Tutorial](http://www.w3schools.com/js/)** -- An official tutorial for Javascript<br>
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** -- An official tutorial for jQuery<br>
 **[Sample Project](session2/)** -- Our simple project for Javascript and jQuery specifically developed for IronHacks<br>
+**[Spanish version](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** -- spanish version of javascript and jquery
 
 ### Videos for Sample Projects
 **[JavaScript 1](https://www.youtube.com/watch?v=AhDO3xLwuC0&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=1)** <br>
@@ -64,6 +73,8 @@ Please follow along these videos to complete the sample projects on Javascript &
 ### d3.js and Google Maps
 **[Tutorial](https://github.com/d3/d3/wiki)** -- An official tutorial for d3<br>
 **[Sample Project](session3/D3_tutorial)** -- Our simple project for d3 specifically developed for IronHacks<br>
+**[Spanish version of d3](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** -- Spanish version of d3<br>
+**[Spanish verison of Google Maps] (https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** -- Spanish version of google map<br>
 
 ### Chart Libraries
 You can use chart libraries to create beautiful visualizations <br>
