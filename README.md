@@ -5,7 +5,7 @@ Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to 
 ## Session 1
 <i><small>(please complete between October 11th to October 17th)</small></i><br>
 **[User Manual Social Coding Platform](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- Introduction to IronHacks <br>
-**[Presentation](https://drive.google.com/open?id=1ROow9rDdBPrJkhUaoTVEoPvAm8mr1j7Xm4oaQH2u-d4)** -- Slides for Session 1<br>
+**[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiUk1kQnl1ZHFXYVU)** -- Slides for Session 1<br>
 ### HTML
 **[Tutorial](http://www.w3schools.com/html)** -- An official tutorial for HTML<br>
 **[Basic HTML Video Version 1](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- Basic HTML video version 1<br>
@@ -45,7 +45,7 @@ _In this hack, we will create a git repository for every participant, and add th
 ## Session 2
 <small><i>(please complete between October 18th to October 24th)</i></small>
 
-**[Presentation](https://drive.google.com/open?id=1OYDpDXJI_I0kP3_MwuqNwsVqt2wb_JwlGoz0Eo7id30)** -- Slides for Session 2
+**[Presentation](https://drive.google.com/open?id=0B9lludeBBlMidnAwcW1ESFNRaGc)** -- Slides for Session 2
 
 ### Javascript and jQuery
 **[JS Tutorial](http://www.w3schools.com/js/)** -- An official tutorial for Javascript<br>
@@ -68,7 +68,7 @@ Please follow along these videos to complete the sample projects on Javascript &
 ## Session 3
 <small><i>(please complete between October 25th to October 31th)</i></small>
 
-**[Presentation](https://docs.google.com/presentation/d/1paSzazJEQV3jkrPDvGyM6wKifaGgkZwWRotKwvwMNy0/edit?usp=sharing)** -- Slides for Session 3
+**[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiTmZLNHlTRjNiMmc)** -- Slides for Session 3
 
 ### d3.js and Google Maps
 **[Tutorial](https://github.com/d3/d3/wiki)** -- An official tutorial for d3<br>
