@@ -135,7 +135,9 @@ An example submission of a mashup has been completed to get you started (but you
 
 ### 4. Virtual Tutoring Sessions
 
-Please check the table below. Since the help session is in WANG HALL entry is restricted after 5:00 pm EST. So please use Google Hangouts to connect. The link for the Google Hangouts is [link](https://hangouts.google.com/call/XFEAUzXgE5_3nZvq4OUoAAEE)
+Please check the table below. The link for the Google Hangouts is [link](https://hangouts.google.com/call/XFEAUzXgE5_3nZvq4OUoAAEE)
+
+Help session for Purdue: Since the help session is in WANG HALL entry is restricted after 5:00 pm EST. So please use Google Hangouts to connect. 
 
 |    Date    |           Location          |         Time         |
 |------------|-----------------------------|----------------------|
@@ -151,5 +153,16 @@ Please check the table below. Since the help session is in WANG HALL entry is re
 | Nov 9      | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
 | Nov 16     | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
 | Nov 17     | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+
+Help session for Bogota:
+
+|    Date    |           Location          |         Time         |
+|------------|-----------------------------|----------------------|
+| October 13 |        google hangout       | 1.30pm to 3.30pm COT |
+| October 20 |        google hangout       | 1.30pm to 3.30pm COT |
+| October 27 |        google hangout       | 1.30pm to 3.30pm COT |
+| Nov 3      |        google hangout       | 1.30pm to 3.30pm COT |
+| Nov 10     |        google hangout       | 1.30pm to 3.30pm COT |
+| Nov 17     |        google hangout       | 1.30pm to 3.30pm COT |
 
 <i>If you have done all this, you are ready to go! GOOD LUCK during the competition! You can do it! </i>
