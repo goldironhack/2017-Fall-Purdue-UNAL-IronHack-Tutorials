@@ -135,6 +135,21 @@ An example submission of a mashup has been completed to get you started (but you
 
 ### 4. Virtual Tutoring Sessions
 
-We will be available for online Q&As on Wednesdays and Thursdays (4:30pm - 5:30pm). Please check www.ironhacks.com
+Please check the table below. Since the help session is in WANG HALL entry is restricted after 5:00 pm EST. So please use Google Hangouts to connect. The link for the Google Hangouts is [link](https://hangouts.google.com/call/XFEAUzXgE5_3nZvq4OUoAAEE)
+
+|    Date    |           Location          |         Time         |
+|------------|-----------------------------|----------------------|
+| October 11 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| October 12 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| October 18 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| October 19 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| October 25 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| October 26 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| Nov 1      | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| Nov 2      | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| Nov 8      | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| Nov 9      | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| Nov 16     | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| Nov 17     | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
 
 <i>If you have done all this, you are ready to go! GOOD LUCK during the competition! You can do it! </i>
