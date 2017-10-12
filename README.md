@@ -137,7 +137,7 @@ An example submission of a mashup has been completed to get you started (but you
 
 Please check the table below. The link for the Google Hangouts is [link](https://hangouts.google.com/call/XFEAUzXgE5_3nZvq4OUoAAEE)
 
-Help session for Purdue: Since the help session is in WANG HALL entry is restricted after 5:00 pm EST. So please use Google Hangouts to connect. 
+Help session for Purdue students: Since the help session is in WANG HALL entry is restricted after 5:00 pm EST. So please use Google Hangouts to connect. 
 
 |    Date    |           Location          |         Time         |
 |------------|-----------------------------|----------------------|
@@ -147,22 +147,22 @@ Help session for Purdue: Since the help session is in WANG HALL entry is restric
 | October 19 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
 | October 25 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
 | October 26 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| Nov 1      | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| Nov 2      | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| Nov 8      | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| Nov 9      | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| Nov 16     | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| Nov 17     | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| November 1 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| November 2 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| November 8 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| November 9 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| November 16| WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+| November 17| WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
 
-Help session for Bogota:
+Help session for Bogota students:
 
 |    Date    |           Location          |         Time         |
 |------------|-----------------------------|----------------------|
 | October 13 |        google hangout       | 1.30pm to 3.30pm COT |
 | October 20 |        google hangout       | 1.30pm to 3.30pm COT |
 | October 27 |        google hangout       | 1.30pm to 3.30pm COT |
-| Nov 3      |        google hangout       | 1.30pm to 3.30pm COT |
-| Nov 10     |        google hangout       | 1.30pm to 3.30pm COT |
-| Nov 17     |        google hangout       | 1.30pm to 3.30pm COT |
+| November 3 |        google hangout       | 1.30pm to 3.30pm COT |
+| November 10|        google hangout       | 1.30pm to 3.30pm COT |
+| November 17|        google hangout       | 1.30pm to 3.30pm COT |
 
 <i>If you have done all this, you are ready to go! GOOD LUCK during the competition! You can do it! </i>
