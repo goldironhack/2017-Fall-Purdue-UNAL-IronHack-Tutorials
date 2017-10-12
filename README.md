@@ -101,7 +101,7 @@ Please follow along these videos to complete the sample projects on d3
 **[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Official tutorial for Google Map API<br>
 
 ## Session 4
-<small><i>(please complete between October 25th to November 1st)</i></small>
+<small><i>(please complete between October 25th to November 4th)</i></small>
 <small><i>To Be Added Soon!</i></small>
 
 
