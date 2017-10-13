@@ -4,23 +4,23 @@ Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to 
 
 ## Session 1
 <i><small>(please complete between October 11th to October 17th)</small></i><br>
-**[User Manual Social Coding Platform](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- Introduction to IronHacks <br>
+**[User Manual Social Coding Platform](https://drive.google.com/open?id=0B301Ac3Lm0btSVdrc3hfd0I4b0k)** -- Introduction to IronHacks <br>
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiUk1kQnl1ZHFXYVU)** -- Slides for Session 1<br>
 ### HTML
 **[Tutorial](http://www.w3schools.com/html)** -- An official tutorial for HTML<br>
-**[Basic HTML Video Version 1](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- Basic HTML video version 1<br>
-**[Basic HTML Sample Code Version 1](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- Basic HTML codes version 1<br>
-**[Basic HTML Video Version 2](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- Basic HTML video version 2<br>
-**[Basic HTML Sample Code Version 2](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- Basic HTML codes version 2<br>
-**[Inserting image on social coding platform (video)](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- inserting image on social coding platform <br>
-**[Inserting image on social coding platfrom (codes)](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- inserting image on social coding platform <br>
+**[HTML Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btUzQxcUJJVURxeVk)** -- Basic HTML video version 1<br>
+**[HTML Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btT1ZQYnhTeWxobjA)** -- Basic HTML codes version 1<br>
+**[HTML Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btVGxOUDRRdk9KYjg)** -- Basic HTML video version 2<br>
+**[HTML Sample Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btalNDMEZOaXBLNWM)** -- Basic HTML codes version 2<br>
+**[HTML Video 3](https://drive.google.com/open?id=0B301Ac3Lm0btRU9VYUZwOFpVejQ)** -- inserting image on social coding platform <br>
+**[HTML Sample Code 3](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- inserting image on social coding platform <br>
 **[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
 
 ### CSS
 **[Tutorial](http://www.w3schools.com/css/)** -- An official tutorial for CSS<br>
-**[Bootstrap](http://getbootstrap.com/)** -- Official website for Bootstrap<br>
-**[Boostrap Video on Social Coding Editor](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- boostrap video on social coding editor<br>
-**[Boostrap Codes on Social Coding Editor](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- boostrap codes on social coding editor<br>
+**[Bootstrap 1](http://getbootstrap.com/)** -- Official website for Bootstrap<br>
+**[Boostrap Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btelpqcmxDbi1Eb2c)** -- boostrap video on social coding editor<br>
+**[Boostrap Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btV2Z2U3dxT0pHVHM)** -- boostrap codes on social coding editor<br>
 **[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
 
 ### Videos for Sample Projects
