@@ -141,9 +141,9 @@ An example submission of a mashup has been completed to get you started (but you
 
 ### 4. Virtual Tutoring Sessions
 
-Please check the table below. The link for the Google Hangouts is [link](https://hangouts.google.com/call/XFEAUzXgE5_3nZvq4OUoAAEE)
+Please see below for a detailed schedule of help sessions. The link for the Google Hangouts is [link](https://hangouts.google.com/call/XFEAUzXgE5_3nZvq4OUoAAEE)
 
-Help session for Purdue students: Since the help session is in WANG HALL entry is restricted after 5:00 pm EST. So please use Google Hangouts to connect. 
+Help session for Purdue students: The physical location is in WANG HALL(Room No 4071). Wang Hall has restricsted  entry after 5:00pm EST. We request students to use Google Hangouts for such times. 
 
 |    Date    |           Location          |         Time         |
 |------------|-----------------------------|----------------------|
