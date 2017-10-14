@@ -59,7 +59,7 @@ _In this hack, we will create a git repository for every participant, and add th
 ### An official tutorial for jQuery
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** 
 ### Spanish version of javascript and jquery
-**[Spanish version](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)**
+**[Spanish version](https://drive.google.com/open?id=0B255jHwhIl5ha2hJVTg5aU9Wbmc)**
 
 ### Sample Projects link and Videos
 **[Sample Project](session2/)** -- Our simple project for Javascript and jQuery specifically developed for IronHacks<br>
