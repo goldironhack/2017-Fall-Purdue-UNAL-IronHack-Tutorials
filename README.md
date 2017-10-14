@@ -17,7 +17,7 @@ Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to 
 **[HTML Sample Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btalNDMEZOaXBLNWM)**
 ### Basic HTML video and sample code version 3
 **[HTML Video 3](https://drive.google.com/open?id=0B301Ac3Lm0btRU9VYUZwOFpVejQ)** -- inserting image on social coding platform <br>
-**[HTML Sample Code 3](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- inserting image on social coding platform <br>
+**[HTML Sample Code 3](https://drive.google.com/open?id=0B301Ac3Lm0btRW1rOVh6em1XU0E)** -- inserting image on social coding platform <br>
 
 
 ### An official tutorial for CSS
