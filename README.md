@@ -20,9 +20,9 @@ Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to 
 **[HTML Sample Code 3](https://drive.google.com/drive/folders/0B301Ac3Lm0bta1NWYjdPM21lQWs)** -- inserting image on social coding platform <br>
 
 
-### ### An official tutorial for CSS
-**[Tutorial](http://www.w3schools.com/css/)
-### Official website for Bootstrap<br>
+### An official tutorial for CSS
+**[Tutorial](http://www.w3schools.com/css/)**
+### Official tutorial for Bootstrap<br>
 **[Bootstrap 1](http://getbootstrap.com/)**
 ### Basic BOOTSTRAP video and sample code version
 **[Boostrap Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btelpqcmxDbi1Eb2c)** -- boostrap video on social coding editor<br>
