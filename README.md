@@ -28,7 +28,7 @@ Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to 
 **[Boostrap Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btelpqcmxDbi1Eb2c)** -- boostrap video on social coding editor<br>
 **[Boostrap Sample Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btV2Z2U3dxT0pHVHM)** -- boostrap codes on social coding editor<br>
 
-### Videos for Sample Projects
+### Sample Projects links and videos
 **[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
 **[HTML & CSS 1](https://www.youtube.com/watch?v=NgY0Cs09xyM&index=1&list=PLv0S1odRLm0YTt7EaxAQpiru6HJAymYJ-&t=572s)** <br>
 **[HTML & CSS 2](https://www.youtube.com/watch?v=jYlHVKq7YKc&list=PLv0S1odRLm0YTt7EaxAQpiru6HJAymYJ-&index=2)** <br>
@@ -54,12 +54,15 @@ _In this hack, we will create a git repository for every participant, and add th
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMidnAwcW1ESFNRaGc)** -- Slides for Session 2
 
 ### Javascript and jQuery
-**[JS Tutorial](http://www.w3schools.com/js/)** -- An official tutorial for Javascript<br>
-**[jQuery Tutorial](http://www.w3schools.com/jquery/)** -- An official tutorial for jQuery<br>
-**[Sample Project](session2/)** -- Our simple project for Javascript and jQuery specifically developed for IronHacks<br>
-**[Spanish version](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** -- spanish version of javascript and jquery
+### An official tutorial for Javascript
+**[JS Tutorial](http://www.w3schools.com/js/)** 
+### An official tutorial for jQuery
+**[jQuery Tutorial](http://www.w3schools.com/jquery/)** 
+### Spanish version of javascript and jquery
+**[Spanish version](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)**
 
-### Videos for Sample Projects
+### Sample Projects link and Videos
+**[Sample Project](session2/)** -- Our simple project for Javascript and jQuery specifically developed for IronHacks<br>
 **[JavaScript 1](https://www.youtube.com/watch?v=AhDO3xLwuC0&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=1)** <br>
 **[JavaScript 2](https://www.youtube.com/watch?v=24AZUg6YY6w&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=2)** <br>
 **[JavaScript 3](https://www.youtube.com/watch?v=hl71lGLlbbg&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=3)** <br>
@@ -77,9 +80,10 @@ Please follow along these videos to complete the sample projects on Javascript &
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiTmZLNHlTRjNiMmc)** -- Slides for Session 3
 
 ### d3.js and Google Maps
-**[Tutorial](https://github.com/d3/d3/wiki)** -- An official tutorial for d3<br>
-**[Sample Project](session3/D3_tutorial)** -- Our simple project for d3 specifically developed for IronHacks<br>
-**[Spanish version of d3](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** -- Spanish version of d3<br>
+### An official tutorial for d3
+**[Tutorial](https://github.com/d3/d3/wiki)** <br>
+### Spanish version of d3 and Google Maps
+**[Spanish version of d3](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** <br>
 **[Spanish verison of Google Maps](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** -- Spanish version of google map<br>
 
 ### Chart Libraries
@@ -89,7 +93,8 @@ You can use chart libraries to create beautiful visualizations <br>
 **[C3.js](http://c3js.org)**<br>
 **[Sigma.js](http://sigmajs.org)**<br>
 
-### Videos for Sample Projects
+### Sample Projects link and videos
+**[Sample Project](session3/D3_tutorial)** -- Our simple project for d3 specifically developed for IronHacks<br>
 **[d3.js 1](https://drive.google.com/open?id=0B-DRvJb6N3IiLXZDSFR2ZHF5NFE)** <br>
 **[d3.js 2](https://drive.google.com/open?id=0B-DRvJb6N3IiYm5hclVxRk9pcEE)** <br>
 **[d3.js 3](https://drive.google.com/open?id=0B-DRvJb6N3Iic25BWkJ5eXpNb1E)** <br>
@@ -101,10 +106,13 @@ Please follow along these videos to complete the sample projects on d3
 **[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3” for week 3: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ### Google Maps Javascript API
-**[Official Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Official tutorial for Google Map API<br>
-**[Spanish version](https://drive.google.com/file/d/0B255jHwhIl5haTVQcFRuTlVhTkk/view)** -- official tutorial for google maps api
+### An official tutorial and project for Google Map API
+**[Official Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** <br>
+**[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** <br>
+### Sample tutorial and project for Google Map API
 **[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
-**[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Official tutorial for Google Map API<br>
+### Spanish Version for Google Map API
+**[Spanish version](https://drive.google.com/file/d/0B255jHwhIl5haTVQcFRuTlVhTkk/view)** <br>
 
 ## Session 4
 <small><i>(please complete between October 25th to November 4th)</i></small>
