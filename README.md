@@ -85,12 +85,10 @@ Please follow along these videos to complete the sample projects on Javascript &
 **[Spanish version of d3](https://drive.google.com/open?id=0B255jHwhIl5hSVU1M0xPbFRtbFU)** <br>
 **[Spanish verison of Google Maps](https://drive.google.com/open?id=0B255jHwhIl5hMFdrcWhaS3JsREE)**<br>
 
-### Chart Libraries
-You can use chart libraries to create beautiful visualizations <br>
-**[Arbor.js](http://arborjs.org)** <br>
+### Official Website of d3 library
+You can use this library to create beautiful visualizations <br>
 **[D3.js](http://d3js.org)**<br>
-**[C3.js](http://c3js.org)**<br>
-**[Sigma.js](http://sigmajs.org)**<br>
+
 
 ### Sample Projects link and videos
 **[Sample Project](session3/D3_tutorial)** -- Our simple project for d3 specifically developed for IronHacks<br>
