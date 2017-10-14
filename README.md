@@ -82,7 +82,7 @@ Please follow along these videos to complete the sample projects on Javascript &
 ### An official tutorial for d3
 **[Tutorial](https://github.com/d3/d3/wiki)** <br>
 ### Spanish version of d3 and Google Maps
-**[Spanish version of d3](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** <br>
+**[Spanish version of d3](https://drive.google.com/open?id=0B255jHwhIl5hSVU1M0xPbFRtbFU)** <br>
 **[Spanish verison of Google Maps](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** -- Spanish version of google map<br>
 
 ### Chart Libraries
