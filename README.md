@@ -83,7 +83,7 @@ Please follow along these videos to complete the sample projects on Javascript &
 **[Tutorial](https://github.com/d3/d3/wiki)** <br>
 ### Spanish version of d3 and Google Maps
 **[Spanish version of d3](https://drive.google.com/open?id=0B255jHwhIl5hSVU1M0xPbFRtbFU)** <br>
-**[Spanish verison of Google Maps](https://drive.google.com/drive/folders/0B255jHwhIl5hUTd2X3l0RTBSUTA)** -- Spanish version of google map<br>
+**[Spanish verison of Google Maps](https://drive.google.com/open?id=0B255jHwhIl5hMFdrcWhaS3JsREE)**<br>
 
 ### Chart Libraries
 You can use chart libraries to create beautiful visualizations <br>
