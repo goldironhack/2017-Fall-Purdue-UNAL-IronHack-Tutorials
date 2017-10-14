@@ -22,12 +22,11 @@ Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to 
 
 ### An official tutorial for CSS
 **[Tutorial](http://www.w3schools.com/css/)**
-### Official tutorial for Bootstrap<br>
+### Official website for Bootstrap<br>
 **[Bootstrap 1](http://getbootstrap.com/)**
 ### Basic BOOTSTRAP video and sample code version
 **[Boostrap Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btelpqcmxDbi1Eb2c)** -- boostrap video on social coding editor<br>
 **[Boostrap Sample Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btV2Z2U3dxT0pHVHM)** -- boostrap codes on social coding editor<br>
-**[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
 
 ### Videos for Sample Projects
 **[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
