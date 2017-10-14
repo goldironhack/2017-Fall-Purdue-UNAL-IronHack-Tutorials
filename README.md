@@ -79,7 +79,6 @@ Please follow along these videos to complete the sample projects on Javascript &
 
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiTmZLNHlTRjNiMmc)** -- Slides for Session 3
 
-### d3.js and Google Maps
 ### An official tutorial for d3
 **[Tutorial](https://github.com/d3/d3/wiki)** <br>
 ### Spanish version of d3 and Google Maps
@@ -109,7 +108,7 @@ Please follow along these videos to complete the sample projects on d3
 ### An official tutorial and project for Google Map API
 **[Official Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** <br>
 **[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** <br>
-### Sample tutorial and project for Google Map API
+### Sample tutorial for Google Map API
 **[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
 ### Spanish Version for Google Map API
 **[Spanish version](https://drive.google.com/file/d/0B255jHwhIl5haTVQcFRuTlVhTkk/view)** <br>
