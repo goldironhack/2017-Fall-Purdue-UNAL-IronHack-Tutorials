@@ -10,7 +10,7 @@ Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to 
 ### An official tutorial for HTML
 **[Tutorial](http://www.w3schools.com/html)
 ### Basic HTML video and sample code version 1
-**[HTML Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btUzQxcUJJVURxeVk)**
+**[HTML Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btUzQxcUJJVURxeVk)**<br>
 **[HTML Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btT1ZQYnhTeWxobjA)**
 ### Basic HTML video and sample code version 2
 **[HTML Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btVGxOUDRRdk9KYjg)**
