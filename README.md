@@ -122,7 +122,7 @@ Purdue Gold IronHacks Fall 2017 will involve location data, so it is recommended
 
 ### 1. Datasets
 
-The IRONHACKS rules require that you use at least TWO open data sets in your project. One dataset is mandatory
+The IRONHACKS rules require that you use open data sets in your project.
 
 Available datasets to choose from:
 - **[Climate Data Online](https://www.ncdc.noaa.gov/cdo-web)** -- the mandatory dataset <br>
@@ -136,13 +136,6 @@ You can read more about these datasets [here](Datasets.md)
 ### 2. Readme File
 Please make sure that you also include very descriptive readme file when you commit your application.
 - **[Example README](readme_template)**
-
-### 3. Example Submission of a Mashup   
-
-An example submission of a mashup has been completed to get you started (but you do not have to use it). It can be found via the following link. In this example submission, AJAX is used for data retrieval, Google Map Api and D3 are applied for data display.
-
-- **[Dev Process](sample_project)** -- This is a example submission of a mashup. Please keep in mind that is NOT related to your challenge question in the Purdue Gold IronHacks Fall 2017 <br>
-- **[Demo of Example Project](http://cdn.rawgit.com/goldironhack/2017-Fall-Purdue-UNAL-IronHack-Tutorials/a5953244/sample_project/2017-Purdue-IronHacks-Tutorial-Project.html)**
 
 ### 4. Virtual Tutoring Sessions
 
