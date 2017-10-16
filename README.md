@@ -9,13 +9,13 @@ Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to 
 
 ### An official tutorial for HTML
 **[Tutorial](http://www.w3schools.com/html)**
-### Basic HTML video and sample code version 1
+### Basic HTML video and sample code 1
 **[HTML Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btUzQxcUJJVURxeVk)**<br>
 **[HTML Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btT1ZQYnhTeWxobjA)**
-### Basic HTML video and sample code version 2
+### Basic HTML video and sample code 2
 **[HTML Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btVGxOUDRRdk9KYjg)**<br>
 **[HTML Sample Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btalNDMEZOaXBLNWM)**
-### Basic HTML video and sample code version 3
+### Basic HTML video and sample code 3
 **[HTML Video 3](https://drive.google.com/open?id=0B301Ac3Lm0btRU9VYUZwOFpVejQ)** -- inserting image on social coding platform <br>
 **[HTML Sample Code 3](https://drive.google.com/open?id=0B301Ac3Lm0btRW1rOVh6em1XU0E)** -- inserting image on social coding platform <br>
 
@@ -25,10 +25,10 @@ Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to 
 ### Official website for Bootstrap<br>
 **[Bootstrap 1](http://getbootstrap.com/)**
 ### Basic BOOTSTRAP video and sample code version
-**[Boostrap Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btelpqcmxDbi1Eb2c)** -- boostrap video on social coding editor<br>
-**[Boostrap Sample Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btV2Z2U3dxT0pHVHM)** -- boostrap codes on social coding editor<br>
+**[Boostrap Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btelpqcmxDbi1Eb2c)** -- boostrap video on social coding editor<br>
+**[Boostrap Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btV2Z2U3dxT0pHVHM)** -- boostrap codes on social coding editor<br>
 
-### Sample Projects links and videos
+### Additional Videos and  links
 **[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
 **[HTML & CSS 1](https://www.youtube.com/watch?v=NgY0Cs09xyM&index=1&list=PLv0S1odRLm0YTt7EaxAQpiru6HJAymYJ-&t=572s)** <br>
 **[HTML & CSS 2](https://www.youtube.com/watch?v=jYlHVKq7YKc&list=PLv0S1odRLm0YTt7EaxAQpiru6HJAymYJ-&index=2)** <br>
@@ -58,10 +58,10 @@ _In this hack, we will create a git repository for every participant, and add th
 **[JS Tutorial](http://www.w3schools.com/js/)** 
 ### An official tutorial for jQuery
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** 
-### Spanish version of javascript and jquery
+### Sample video in Spanish version of javascript and jquery
 **[Spanish version](https://drive.google.com/open?id=0B255jHwhIl5ha2hJVTg5aU9Wbmc)**
 
-### Sample Projects link and Videos
+### Additional Projects link and Videos
 **[Sample Project](session2/)** -- Our simple project for Javascript and jQuery specifically developed for IronHacks<br>
 **[JavaScript 1](https://www.youtube.com/watch?v=AhDO3xLwuC0&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=1)** <br>
 **[JavaScript 2](https://www.youtube.com/watch?v=24AZUg6YY6w&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=2)** <br>
