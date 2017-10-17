@@ -55,8 +55,11 @@ _In this hack, we will create a git repository for every participant, and add th
 
 ### Javascript and jQuery
 ### An official tutorial for Javascript
-**[JS Tutorial](http://www.w3schools.com/js/)** 
-**[Javascript Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)**<br>
+**[JS Tutorial](http://www.w3schools.com/js/)**<br>
+**[Javascript Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btOWxmMEFtSkZid00)**<br>
+**[Javascript Code 1](https://drive.google.com/drive/folders/0B301Ac3Lm0btZUFyRTI4cHF5YjQ)**<br>
+**[Javascript Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)**<br>
+**[Javascript Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)**<br>
 ### An official tutorial for jQuery
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** 
 ### Sample video in Spanish version of javascript and jquery
