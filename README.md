@@ -23,15 +23,15 @@ Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to 
 ### An official tutorial for CSS
 **[Tutorial](http://www.w3schools.com/css/)** -- css tutorial on w3 school<br>
 ### Official website for Bootstrap<br>
-**[Bootstrap 1](http://getbootstrap.com/)** -- bootsrap tutorial <br>
+**[Bootstrap 1](http://getbootstrap.com/)** -- bootstrap tutorial <br>
 ### Basic BOOTSTRAP video and sample code version
-**[Boostrap Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btelpqcmxDbi1Eb2c)** -- boostrap video on social coding editor -- bootstrap video 1 <br>
-**[Boostrap Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btV2Z2U3dxT0pHVHM)** -- boostrap codes on social coding editor -- bootrap code 1 <br>
+**[Boostrap Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btelpqcmxDbi1Eb2c)** -- boostrap video on social coding editor <br>
+**[Boostrap Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btV2Z2U3dxT0pHVHM)** -- boostrap codes on social coding editor <br>
 
 ### Additional Videos and  links
-**[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
-**[HTML & CSS 1](https://www.youtube.com/watch?v=NgY0Cs09xyM&index=1&list=PLv0S1odRLm0YTt7EaxAQpiru6HJAymYJ-&t=572s)** <br>
-**[HTML & CSS 2](https://www.youtube.com/watch?v=jYlHVKq7YKc&list=PLv0S1odRLm0YTt7EaxAQpiru6HJAymYJ-&index=2)** <br>
+**[Sample Project](session1/html&css)** -- A demo project for HTML and CSS using socila coding platform<br>
+**[HTML & CSS 1](https://www.youtube.com/watch?v=NgY0Cs09xyM&index=1&list=PLv0S1odRLm0YTt7EaxAQpiru6HJAymYJ-&t=572s)** -- Link to video 1<br>
+**[HTML & CSS 2](https://www.youtube.com/watch?v=jYlHVKq7YKc&list=PLv0S1odRLm0YTt7EaxAQpiru6HJAymYJ-&index=2)** Link to video 2 <br>
 
 Please follow along these videos to complete the sample projects on HTML & CSS
 
@@ -61,18 +61,18 @@ _In this hack, we will create a git repository for every participant, and add th
 **[Javascript Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- javascript video 2 on social coding platform <br>
 **[Javascript Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- javascript code 2 on social coding platform<br>
 ### An official tutorial for jQuery
-**[jQuery Tutorial](http://www.w3schools.com/jquery/)** 
+**[jQuery Tutorial](http://www.w3schools.com/jquery/)** --w3 school tutorial for jQuery
 ### Sample video in Spanish version of javascript and jquery
-**[Spanish version](https://drive.google.com/open?id=0B255jHwhIl5ha2hJVTg5aU9Wbmc)**<br>
+**[Spanish version](https://drive.google.com/open?id=0B255jHwhIl5ha2hJVTg5aU9Wbmc)**-- Video in spanish language<br>
 
 ### Additional Projects link and Videos
-**[Sample Project](session2/)** -- Our simple project for Javascript and jQuery specifically developed for IronHacks<br>
-**[JavaScript 1](https://www.youtube.com/watch?v=AhDO3xLwuC0&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=1)** <br>
-**[JavaScript 2](https://www.youtube.com/watch?v=24AZUg6YY6w&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=2)** <br>
-**[JavaScript 3](https://www.youtube.com/watch?v=hl71lGLlbbg&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=3)** <br>
-**[jQuery 1](https://www.youtube.com/watch?v=qIo_F5qI7Qk&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=4)** <br>
-**[jQuery 2](https://www.youtube.com/watch?v=0mtZJTIq1LU&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=5)** <br>
-**[jQuery 3](https://www.youtube.com/watch?v=m6VhtLLJiCQ&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=6)** <br>
+**[Sample Project](session2/)** -- A demo project for Javascript and jQuery using social coding platform<br>
+**[JavaScript 1](https://www.youtube.com/watch?v=AhDO3xLwuC0&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=1)** Link to Javascript video 1<br>
+**[JavaScript 2](https://www.youtube.com/watch?v=24AZUg6YY6w&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=2)** Link to Javascript video 2<br>
+**[JavaScript 3](https://www.youtube.com/watch?v=hl71lGLlbbg&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=3)** Link to Javascript video 3<br>
+**[jQuery 1](https://www.youtube.com/watch?v=qIo_F5qI7Qk&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=4)** Link to jQuery video 1<br>
+**[jQuery 2](https://www.youtube.com/watch?v=0mtZJTIq1LU&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=5)** Link to jQuery video 2<br>
+**[jQuery 3](https://www.youtube.com/watch?v=m6VhtLLJiCQ&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=6)** Link to jQuery video 3 <br>
 
 Please follow along these videos to complete the sample projects on Javascript & jQuery
 **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
@@ -82,10 +82,9 @@ Please follow along these videos to complete the sample projects on Javascript &
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiTmZLNHlTRjNiMmc)** -- Slides for Session 3
 
 ### An official tutorial for d3
-**[Tutorial](https://github.com/d3/d3/wiki)** <br>
+**[Tutorial](https://github.com/d3/d3/wiki)** --Tutorial for d3 library<br>
 ### Official Website of d3 library
-You can use this library to create beautiful visualizations <br>
-**[D3.js](http://d3js.org)**<br>
+**[D3.js](http://d3js.org)** --Official site for d3.js library <br><br>
 ### Spanish version of d3 and Google Maps
 **[Spanish version of d3](https://drive.google.com/open?id=0B255jHwhIl5hSVU1M0xPbFRtbFU)** <br>
 **[Spanish verison of Google Maps](https://drive.google.com/open?id=0B255jHwhIl5hMFdrcWhaS3JsREE)**<br>
