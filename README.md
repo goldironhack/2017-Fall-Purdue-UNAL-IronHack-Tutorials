@@ -71,26 +71,22 @@ _In this hack, we will create a git repository for every participant, and add th
 **[jQuery 3](https://www.youtube.com/watch?v=m6VhtLLJiCQ&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=6)** <br>
 
 Please follow along these videos to complete the sample projects on Javascript & jQuery
-
 **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ## Session 3
 <small><i>(please complete between October 25th to October 31th)</i></small>
-
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiTmZLNHlTRjNiMmc)** -- Slides for Session 3
 
 ### An official tutorial for d3
 **[Tutorial](https://github.com/d3/d3/wiki)** <br>
+### Official Website of d3 library
+You can use this library to create beautiful visualizations <br>
+**[D3.js](http://d3js.org)**<br>
 ### Spanish version of d3 and Google Maps
 **[Spanish version of d3](https://drive.google.com/open?id=0B255jHwhIl5hSVU1M0xPbFRtbFU)** <br>
 **[Spanish verison of Google Maps](https://drive.google.com/open?id=0B255jHwhIl5hMFdrcWhaS3JsREE)**<br>
 
-### Official Website of d3 library
-You can use this library to create beautiful visualizations <br>
-**[D3.js](http://d3js.org)**<br>
-
-
-### Sample Projects link and videos
+### Additional Projects link and videos
 **[Sample Project](session3/D3_tutorial)** -- Our simple project for d3 specifically developed for IronHacks<br>
 **[d3.js 1](https://drive.google.com/open?id=0B-DRvJb6N3IiLXZDSFR2ZHF5NFE)** <br>
 **[d3.js 2](https://drive.google.com/open?id=0B-DRvJb6N3IiYm5hclVxRk9pcEE)** <br>
