@@ -62,18 +62,17 @@ _In this hack, we will create a git repository for every participant, and add th
 **[Javascript Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- javascript code 2 on social coding platform<br>
 ### An official tutorial for jQuery
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** --w3 school tutorial for jQuery
-### Sample video in Spanish version of javascript and jquery
-**[Spanish version](https://drive.google.com/open?id=0B255jHwhIl5ha2hJVTg5aU9Wbmc)**-- Video in spanish language<br>
 
 ### Additional Projects link and Videos
 **[Sample Project](session2/)** -- A demo project for Javascript and jQuery using social coding platform<br>
-**[JavaScript 1](https://www.youtube.com/watch?v=AhDO3xLwuC0&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=1)** Link to Javascript video 1<br>
-**[JavaScript 2](https://www.youtube.com/watch?v=24AZUg6YY6w&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=2)** Link to Javascript video 2<br>
-**[JavaScript 3](https://www.youtube.com/watch?v=hl71lGLlbbg&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=3)** Link to Javascript video 3<br>
-**[jQuery 1](https://www.youtube.com/watch?v=qIo_F5qI7Qk&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=4)** Link to jQuery video 1<br>
-**[jQuery 2](https://www.youtube.com/watch?v=0mtZJTIq1LU&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=5)** Link to jQuery video 2<br>
-**[jQuery 3](https://www.youtube.com/watch?v=m6VhtLLJiCQ&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=6)** Link to jQuery video 3 <br>
-
+**[JavaScript 1](https://www.youtube.com/watch?v=AhDO3xLwuC0&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=1)** --Link to Javascript video 1<br>
+**[JavaScript 2](https://www.youtube.com/watch?v=24AZUg6YY6w&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=2)** --Link to Javascript video 2<br>
+**[JavaScript 3](https://www.youtube.com/watch?v=hl71lGLlbbg&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=3)** --Link to Javascript video 3<br>
+**[jQuery 1](https://www.youtube.com/watch?v=qIo_F5qI7Qk&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=4)** -- Link to jQuery video 1<br>
+**[jQuery 2](https://www.youtube.com/watch?v=0mtZJTIq1LU&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=5)** -- Link to jQuery video 2<br>
+**[jQuery 3](https://www.youtube.com/watch?v=m6VhtLLJiCQ&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=6)** -- Link to jQuery video 3 <br>
+### Sample video in Spanish version of javascript and jquery
+**[Spanish version](https://drive.google.com/open?id=0B255jHwhIl5ha2hJVTg5aU9Wbmc)**-- Video in spanish language<br>
 Please follow along these videos to complete the sample projects on Javascript & jQuery
 **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
