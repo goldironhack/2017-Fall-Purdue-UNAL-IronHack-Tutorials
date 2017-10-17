@@ -8,25 +8,25 @@ Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to 
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiUk1kQnl1ZHFXYVU)** -- Slides for Session 1<br>
 
 ### An official tutorial for HTML
-**[Tutorial](http://www.w3schools.com/html)**
-### Basic HTML video and sample code 1
-**[HTML Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btUzQxcUJJVURxeVk)**<br>
-**[HTML Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btT1ZQYnhTeWxobjA)**
+**[Tutorial](http://www.w3schools.com/html)** -- w3 school tutorial for html<br>
+### Basic HTML video and sample code 1 
+**[HTML Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btUzQxcUJJVURxeVk)** -- html video 1 on social coding platform <br>
+**[HTML Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btT1ZQYnhTeWxobjA)** -- html code 1 on social coding platform<br>
 ### Basic HTML video and sample code 2
-**[HTML Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btVGxOUDRRdk9KYjg)**<br>
-**[HTML Sample Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btalNDMEZOaXBLNWM)**
+**[HTML Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btVGxOUDRRdk9KYjg)** -- html video 2 on social coding platform <br>
+**[HTML Sample Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btalNDMEZOaXBLNWM)** -- html code 2 on social coding platform<br>
 ### Basic HTML video and sample code 3
-**[HTML Video 3](https://drive.google.com/open?id=0B301Ac3Lm0btRU9VYUZwOFpVejQ)** -- inserting image on social coding platform <br>
-**[HTML Sample Code 3](https://drive.google.com/open?id=0B301Ac3Lm0btRW1rOVh6em1XU0E)** -- inserting image on social coding platform <br>
+**[HTML Video 3](https://drive.google.com/open?id=0B301Ac3Lm0btRU9VYUZwOFpVejQ)** -- html video 3 on social coding platform <br>
+**[HTML Sample Code 3](https://drive.google.com/open?id=0B301Ac3Lm0btRW1rOVh6em1XU0E)** -- html code 3 on social coding platform <br>
 
 
 ### An official tutorial for CSS
-**[Tutorial](http://www.w3schools.com/css/)**
+**[Tutorial](http://www.w3schools.com/css/)** -- css tutorial on w3 school<br>
 ### Official website for Bootstrap<br>
-**[Bootstrap 1](http://getbootstrap.com/)**
+**[Bootstrap 1](http://getbootstrap.com/)** -- bootsrap tutorial <br>
 ### Basic BOOTSTRAP video and sample code version
-**[Boostrap Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btelpqcmxDbi1Eb2c)** -- boostrap video on social coding editor<br>
-**[Boostrap Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btV2Z2U3dxT0pHVHM)** -- boostrap codes on social coding editor<br>
+**[Boostrap Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btelpqcmxDbi1Eb2c)** -- boostrap video on social coding editor -- bootstrap video 1 <br>
+**[Boostrap Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btV2Z2U3dxT0pHVHM)** -- boostrap codes on social coding editor -- bootrap code 1 <br>
 
 ### Additional Videos and  links
 **[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
@@ -55,11 +55,11 @@ _In this hack, we will create a git repository for every participant, and add th
 
 ### Javascript and jQuery
 ### An official tutorial for Javascript
-**[JS Tutorial](http://www.w3schools.com/js/)**<br>
-**[Javascript Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btOWxmMEFtSkZid00)**<br>
-**[Javascript Code 1](https://drive.google.com/drive/folders/0B301Ac3Lm0btZUFyRTI4cHF5YjQ)**<br>
-**[Javascript Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)**<br>
-**[Javascript Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)**<br>
+**[JS Tutorial](http://www.w3schools.com/js/)** -- javascript tutorial on w3 school <br>
+**[Javascript Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btOWxmMEFtSkZid00)** -- javascript video 1 on social coding platform<br>
+**[Javascript Code 1](https://drive.google.com/drive/folders/0B301Ac3Lm0btZUFyRTI4cHF5YjQ)** -- javascript code 1 on social coding platform<br>
+**[Javascript Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- javascript video 2 on social coding platform <br>
+**[Javascript Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- javascript code 2 on social coding platform<br>
 ### An official tutorial for jQuery
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** 
 ### Sample video in Spanish version of javascript and jquery
