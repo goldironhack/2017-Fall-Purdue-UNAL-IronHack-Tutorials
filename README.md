@@ -136,7 +136,7 @@ You can read more about these datasets [here](Datasets.md)
 Please make sure that you also include very descriptive readme file when you commit your application.
 - **[Example README](readme_template)**
 
-### 4. Virtual Tutoring Sessions
+### 3. Virtual Tutoring Sessions
 
 Please see below for a detailed schedule of help sessions. The link for the Google Hangouts is [link](https://hangouts.google.com/call/XFEAUzXgE5_3nZvq4OUoAAEE)
 
