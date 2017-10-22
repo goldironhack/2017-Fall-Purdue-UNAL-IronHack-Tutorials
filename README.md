@@ -60,6 +60,7 @@ _In this hack, we will create a git repository for every participant, and add th
 **[Javascript Code 1](https://drive.google.com/drive/folders/0B301Ac3Lm0btZUFyRTI4cHF5YjQ)** -- javascript code 1 on social coding platform<br>
 **[Javascript Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- javascript video 2 on social coding platform <br>
 **[Javascript Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- javascript code 2 on social coding platform<br>
+**[Javascript In Class Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btMENrZHJ2NGFGUFU?usp=sharing)** -- javascript in class tutorial<br>
 ### An official tutorial for jQuery
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** --w3 school tutorial for jQuery
 
