@@ -73,8 +73,9 @@ _In this hack, we will create a git repository for every participant, and add th
 **[jQuery 3](https://www.youtube.com/watch?v=m6VhtLLJiCQ&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=6)** -- Link to jQuery video 3 <br>
 
 ### Sample video in Spanish version of javascript and jquery
-**[Spanish version](https://drive.google.com/open?id=0B255jHwhIl5ha2hJVTg5aU9Wbmc)**-- Video in spanish language<br>
+**[Spanish Version Video](https://drive.google.com/open?id=0B255jHwhIl5ha2hJVTg5aU9Wbmc)**-- Video in spanish language<br>
 Please follow along these videos to complete the sample projects on Javascript & jQuery<br>
+**[Spanish Version Code](https://drive.google.com/drive/folders/0B255jHwhIl5hMFFHcmpNY3hkZkU)** -- Code for Spanish Video<br>
 **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ## Session 3
