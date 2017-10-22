@@ -116,9 +116,9 @@ Please follow along these videos to complete the sample projects on d3
 **[Spanish version](https://drive.google.com/file/d/0B255jHwhIl5haTVQcFRuTlVhTkk/view)** <br>
 
 ## Session 4
-<small><i>(please complete between October 25th to November 4th)</i></small>
-<small><i>To Be Added Soon!</i></small>
-
+**[usability session 1](https://docs.google.com/presentation/d/1jru6h0QqLHVUfzF1PVoxA3XYpa2m7yyoNfrUF59ppU4/edit?ts=59eb947f#slide=id.p3)** <br>
+**[usability session 2](https://docs.google.com/presentation/d/19nPx9W_mMp1go3D1k25sj4Dhlo4jKTIyCk1-A1zS5eo/edit?ts=59eb94ca#slide=id.p3)** <br>
+**[usability session 3](https://docs.google.com/presentation/d/1MfxG37OUvxEA9C9no1zpE9ZtjUOJqHKJeRptnAiF_Z8/edit?ts=59eb94ea#slide=id.p3)** <br>
 
 ## Additional information to get ready for the hack that starts on October 30th, 2017
 
