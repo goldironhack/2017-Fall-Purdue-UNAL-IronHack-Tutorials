@@ -83,7 +83,9 @@ Please follow along these videos to complete the sample projects on Javascript &
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiTmZLNHlTRjNiMmc)** -- Slides for Session 3
 
 ### An official tutorial for d3
-**[Tutorial](https://github.com/d3/d3/wiki)** --Tutorial for d3 library<br>
+**[D3 Tutorial 1](https://github.com/d3/d3/wiki)** --Tutorial for d3 library<br>
+**[D3 Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- d3 video 2 on social coding platform <br>
+**[D3 Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- d3 code 2 on social coding platform<br>
 ### Official Website of d3 library
 **[D3.js](http://d3js.org)** --Official site for d3.js library <br><br>
 ### Spanish version of d3 and Google Maps
