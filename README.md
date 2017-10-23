@@ -137,11 +137,17 @@ If you want to learn more about the sources of this data:
 
 You can read more about these datasets [here](Datasets.md)
 
-### 2. Readme File
+### 2. Libraries List
+
+The list of libraries which can be used by participants during the hack is listed below.
+
+[list](https://docs.google.com/document/d/1ktffkzI4QWtnLjVN6uHOEvRl6bBxY5ztBcD-imk82WQ/edit?usp=sharing)
+
+### 3. Readme File
 Please make sure that you also include very descriptive readme file when you commit your application.
 - **[Example README](readme_template)**
 
-### 3. Virtual Tutoring Sessions
+### 4. Virtual Tutoring Sessions
 
 Please see below for a detailed schedule of help sessions. The link for the Google Hangouts is [link](https://hangouts.google.com/call/XFEAUzXgE5_3nZvq4OUoAAEE)
 
