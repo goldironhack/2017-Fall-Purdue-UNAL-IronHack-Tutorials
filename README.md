@@ -117,8 +117,8 @@ Please follow along these videos to complete the sample projects on d3
 
 ## Session 4
 **[design elements session 1](https://docs.google.com/presentation/d/1jru6h0QqLHVUfzF1PVoxA3XYpa2m7yyoNfrUF59ppU4/edit?ts=59eb947f#slide=id.p3)** <br>
-**[usability session 2](https://docs.google.com/presentation/d/19nPx9W_mMp1go3D1k25sj4Dhlo4jKTIyCk1-A1zS5eo/edit?ts=59eb94ca#slide=id.p3)** <br>
-**[usability session 3](https://docs.google.com/presentation/d/1MfxG37OUvxEA9C9no1zpE9ZtjUOJqHKJeRptnAiF_Z8/edit?ts=59eb94ea#slide=id.p3)** <br>
+**[design principles session 2](https://docs.google.com/presentation/d/19nPx9W_mMp1go3D1k25sj4Dhlo4jKTIyCk1-A1zS5eo/edit?ts=59eb94ca#slide=id.p3)** <br>
+**[usability heuristics session 3](https://docs.google.com/presentation/d/1MfxG37OUvxEA9C9no1zpE9ZtjUOJqHKJeRptnAiF_Z8/edit?ts=59eb94ea#slide=id.p3)** <br>
 **[quiz 1 design elements](https://purdue.qualtrics.com/SE/?SID=SV_esbe7BxRTJdCIM5&redirect_to=http%3A%2F%2Fwww.ironhacks.com%2Fquizzes%3FmarkComplete%3Ddesign_elements&user_email=opendigital%40purdue.edu&user_id=59d12a7001d6c800124fadd1&Q_JFE=0)**<br>
 **[quiz 2 design principles](https://purdue.qualtrics.com/SE/?SID=SV_6WDUSwWGkM8udo1&redirect_to=http%3A%2F%2Fwww.ironhacks.com%2Fquizzes%3FmarkComplete%3Ddesign_principles&user_email=opendigital%40purdue.edu&user_id=59d12a7001d6c800124fadd1&Q_JFE=0)**<br>
 **[quiz 3 usability heuristics](https://purdue.qualtrics.com/SE/?SID=SV_eESwNO3Kxe1DJiJ&redirect_to=http%3A%2F%2Fwww.ironhacks.com%2Fquizzes%3FmarkComplete%3Dusability_heuristics&user_email=opendigital%40purdue.edu&user_id=59d12a7001d6c800124fadd1&Q_JFE=0)**<br>
