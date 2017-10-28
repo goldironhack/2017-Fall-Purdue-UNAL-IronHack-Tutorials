@@ -88,6 +88,7 @@ Please follow along these videos to complete the sample projects on Javascript &
 **[D3 Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- d3 video 2 on social coding platform <br>
 **[D3 Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- d3 code 2 on social coding platform<br>
 **[D3 In Class Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btWUN6RkQzbmI4bUE?usp=sharing)** -- d3 in class tutorial<br>
+**[D3 In Class Sample Codes](https://drive.google.com/drive/folders/0B301Ac3Lm0btai1wUjVXWkxqbTQ?usp=sharing)** -- d3 in class sample codes<br>
 ### Official Website of d3 library
 **[D3.js](http://d3js.org)** --Official site for d3.js library <br><br>
 ### Spanish version of d3 and Google Maps
