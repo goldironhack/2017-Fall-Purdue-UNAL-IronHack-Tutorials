@@ -43,10 +43,8 @@ Please follow along these videos to complete the sample projects on HTML & CSS
 You are required to submit code to our system using our social coding platform <br>
 
 
-**[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and GitHub, such as how to install and basic usage<br>
-**[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git
-
-_In this hack, we will create a git repository for every participant, and add them as collaborators to their respective repo. All code submissions should done through the said repository_
+**[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and GitHub, such as how to install and basic usage (not needed for contest but if you are curious)<br>
+**[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git (not needed for contest but if you are curious)
 -->
 ## Session 2
 <small><i>(please complete between October 18th to October 24th)</i></small>
@@ -64,7 +62,7 @@ _In this hack, we will create a git repository for every participant, and add th
 ### An official tutorial for jQuery
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** --w3 school tutorial for jQuery
 
-### Additional Projects link and Videos
+### Additional Projects link and Videos (if you want to practice more)
 **[Sample Project](session2/)** -- A demo project for Javascript and jQuery using social coding platform<br>
 **[JavaScript 1](https://www.youtube.com/watch?v=AhDO3xLwuC0&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=1)** --Link to Javascript video 1<br>
 **[JavaScript 2](https://www.youtube.com/watch?v=24AZUg6YY6w&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=2)** --Link to Javascript video 2<br>
@@ -83,25 +81,25 @@ Please follow along these videos to complete the sample projects on Javascript &
 <small><i>(please complete between October 25th to October 31th)</i></small>
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiTmZLNHlTRjNiMmc)** -- Slides for Session 3
 
-### Tutorial for d3
-**[D3 Tutorial 1](https://github.com/d3/d3/wiki)** --Tutorial for d3 library<br>
-**[D3 Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- d3 video 2 on social coding platform <br>
-**[D3 Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- d3 code 2 on social coding platform<br>
-**[D3 In Class Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btWUN6RkQzbmI4bUE?usp=sharing)** -- d3 in class tutorial<br>
-**[D3 In Class Sample Codes](https://drive.google.com/drive/folders/0B301Ac3Lm0btai1wUjVXWkxqbTQ?usp=sharing)** -- d3 in class sample codes<br>
+### Tutorials for d3
+**[D3 Tutorial 1](https://github.com/d3/d3/wiki)** --Official Tutorial for d3.js library<br>
+**[D3 Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- Our own d3 video 2, using social coding platform <br>
+**[D3 Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- Our own d3 code 2 on social coding platform<br>
+**[D3 In Class Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btWUN6RkQzbmI4bUE?usp=sharing)** -- Our own d3 in class tutorial helpd on October 25&26th<br>
+**[D3 In Class Sample Codes](https://drive.google.com/drive/folders/0B301Ac3Lm0btai1wUjVXWkxqbTQ?usp=sharing)** -- d3 in class sample codes for tutorial in class on October 25th26th<br>
 ### Official Website of d3 library
 **[D3.js](http://d3js.org)** --Official site for d3.js library <br><br>
 ### Spanish version of d3 and Google Maps
 **[Spanish version of d3](https://drive.google.com/open?id=0B255jHwhIl5hSVU1M0xPbFRtbFU)** <br>
 **[Spanish verison of Google Maps](https://drive.google.com/open?id=0B255jHwhIl5hMFdrcWhaS3JsREE)**<br>
 
-### Additional Projects link and videos
-**[Sample Project](session3/D3_tutorial)** -- Our simple project for d3 specifically developed for IronHacks<br>
-**[d3.js 1](https://drive.google.com/open?id=0B-DRvJb6N3IiLXZDSFR2ZHF5NFE)** <br>
-**[d3.js 2](https://drive.google.com/open?id=0B-DRvJb6N3IiYm5hclVxRk9pcEE)** <br>
-**[d3.js 3](https://drive.google.com/open?id=0B-DRvJb6N3Iic25BWkJ5eXpNb1E)** <br>
-**[d3.js 4](https://drive.google.com/open?id=0B-DRvJb6N3IiVno4eGZQNnItMnM)** <br>
-**[Spanish version](https://drive.google.com/file/d/0B255jHwhIl5hU25PNFVwQkMxTkU/view)**<br>
+### Additional Projects link and videos (if you want to practice more)
+**[Sample Project](session3/D3_tutorial)** -- Another simple project for d3 specifically developed for IronHacks (not on social coding platform<br>
+**[d3.js 1](https://drive.google.com/open?id=0B-DRvJb6N3IiLXZDSFR2ZHF5NFE)** -- Code for the project above<br>
+**[d3.js 2](https://drive.google.com/open?id=0B-DRvJb6N3IiYm5hclVxRk9pcEE)** -- Code for the project above<br>
+**[d3.js 3](https://drive.google.com/open?id=0B-DRvJb6N3Iic25BWkJ5eXpNb1E)** -- Code for the project above<br>
+**[d3.js 4](https://drive.google.com/open?id=0B-DRvJb6N3IiVno4eGZQNnItMnM)** -- Code for the project above<br>
+
 
 Please follow along these videos to complete the sample projects on d3
 
