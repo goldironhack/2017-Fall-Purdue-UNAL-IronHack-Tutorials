@@ -137,7 +137,7 @@ Purdue Gold IronHacks Fall 2017 will involve location data, so it is recommended
 The IRONHACKS rules require that you use open data sets in your project.
 
 Available datasets to choose from:
-- **[Climate Data Online](https://www.ncdc.noaa.gov/cdo-web)** -- the mandatory dataset <br>
+- **[Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)** -- the mandatory dataset <br>
 
 If you want to learn more about the sources of this data:
 - **[Data.gov](https://www.data.gov)** -- Official site of the US Government
