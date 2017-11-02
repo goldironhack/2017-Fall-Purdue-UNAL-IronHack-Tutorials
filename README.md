@@ -128,9 +128,9 @@ Please go through these slides before you participate in in-class training
 **[quiz 3 usability heuristics](https://purdue.qualtrics.com/SE/?SID=SV_eESwNO3Kxe1DJiJ&redirect_to=http%3A%2F%2Fwww.ironhacks.com%2Fquizzes%3FmarkComplete%3Dusability_heuristics&user_email=opendigital%40purdue.edu&user_id=59d12a7001d6c800124fadd1&Q_JFE=0)**<br>
 
 ### Videos on Usability
-**[Video 1 on Usability](https://www.dropbox.com/s/skabjjtp1k5bcbp/Tutorial%201of3%20on%20Design%20Elements.mov?dl=0)** --Video 1 on Usbility<br>
-**[Video 2 on Usability](https://www.dropbox.com/s/foiiz5n4mwm6cp7/Tutorial%202of3%20on%20Design%20Principles.mov?dl=0)** --Video 2 on Usbility<br>
-**[Video 3 on Usability](https://www.dropbox.com/s/n2z3qsi5bk494qt/Tutorial%203of3%20on%20Usability%20Heuristics.mov?dl=0)** --Video 3 on Usbility<br>
+**[Video 1 on Usability](https://www.dropbox.com/s/skabjjtp1k5bcbp/Tutorial%201of3%20on%20Design%20Elements.mov?dl=0)** -- Demo video 1 on Usbility<br>
+**[Video 2 on Usability](https://www.dropbox.com/s/foiiz5n4mwm6cp7/Tutorial%202of3%20on%20Design%20Principles.mov?dl=0)** --Demo video 2 on Usbility<br>
+**[Video 3 on Usability](https://www.dropbox.com/s/n2z3qsi5bk494qt/Tutorial%203of3%20on%20Usability%20Heuristics.mov?dl=0)** --Demo video 3 on Usbility<br>
 
 ## Additional information to get ready for the hack that starts on October 30th, 2017
 
