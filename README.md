@@ -92,6 +92,7 @@ Please follow along these videos to complete the sample projects on Javascript &
 ### Spanish version of d3 and Google Maps
 **[Spanish version of d3](https://drive.google.com/open?id=0B255jHwhIl5hSVU1M0xPbFRtbFU)** <br>
 **[Spanish verison of Google Maps](https://drive.google.com/open?id=0B255jHwhIl5hMFdrcWhaS3JsREE)**<br>
+**[Visualize JSON data](https://drive.google.com/file/d/1q8p8KnoZVLpCnRLVFFMTPlVFBSFMXrvL/view?usp=sharing)**<br>
 
 ### Additional Projects link and videos (if you want to practice more)
 **[Sample Project](session3/D3_tutorial)** -- Another simple project for d3 specifically developed for IronHacks (not on social coding platform<br>
