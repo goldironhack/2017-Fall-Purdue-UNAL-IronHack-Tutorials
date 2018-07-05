@@ -193,3 +193,6 @@ Help session for Bogota students:
 | November 17|        google hangout       | 1.30pm to 3.30pm COT |
 
 <i>If you have done all this, you are ready to go! GOOD LUCK during the competition! You can do it! </i>
+
+[![DOI](https://zenodo.org/badge/103441604.svg)](https://zenodo.org/badge/latestdoi/103441604)
+
